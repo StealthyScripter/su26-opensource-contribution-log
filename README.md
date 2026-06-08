@@ -1,15 +1,26 @@
-# Contribution [#]: [Issue Title]
+# Contribution [#1]: [Add evidence-checklist command to pci-dss plugin]
 
-**Contribution Number:** [1 / 2 / 3]  
-**Student:** [Your Name]  
-**Issue:** [GitHub issue link]  
-**Status:** [Phase I / Phase II / Phase III / Phase IV] [In Progress / Complete]
+**Contribution Number:** [1]
+**Student:** [Brian Koringo]
+**Issue:** [https://github.com/GRCEngClub/claude-grc-engineering/issues/164]
+**Status:** [Phase I Complete]
 
 ---
 
 ## Why I Chose This Issue
 
-[1-2 paragraphs explaining why this issue interests you, how it matches your skills/learning goals, what you hope to learn]
+[I chose issue #164 "Add evidence-checklist command to pci-dss plugin" because it aligns with my interests in cybersecurity, compliance, and audit readiness. The issue is labeled "good first issue" and has clear acceptance criteria.
+
+I'm interested in this issue because:
+
+It relates directly to PCI DSS compliance and security practices.
+The task is well-scoped and suitable for a first open-source contribution.
+The project provides GDPR and HITRUST examples that can be used as references.
+It gives me an opportunity to learn how compliance framework plugins are structured in a real-world project.
+
+From reading the issue, I understand that the PCI DSS plugin is missing an evidence-checklist command that already exists for other frameworks. My contribution will add this functionality and help users generate audit-ready evidence collection checklists.
+
+I introduced myself on the issue and confirmed that it is still open and available for contribution.]
 
 ---
 
